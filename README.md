@@ -4,3 +4,7 @@ Flutter scrolling fab animated
 Add this ---> in pubspec.yaml (used version)
 ============================================
 flutter_scrolling_fab_animated: ^0.1.5
+
+https://github.com/user-attachments/assets/0db6f39b-2c76-4409-ae30-f474aa8395e7
+
+![WhatsApp Image 2024-10-26 at 10 32 57 PM](https://github.com/user-attachments/assets/8ef55d3f-1718-4b09-9b46-4518337c34a5)
